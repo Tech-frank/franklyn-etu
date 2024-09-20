@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tech-frank
 - 👀 I’m interested in Software engineering and cyber security
-- 🌱 I’m currently learning web development with python - flask
-- 💞️ I’m looking to collaborate on web development projects with flask, API's and much more
+- 🌱 I’m currently learning web development with python - Django
+- 💞️ I’m looking to collaborate on web development projects with Django,flask, API's and much more
 - 📫 You can reach with my email franklynetu80@gmail.com
 
 <!---
